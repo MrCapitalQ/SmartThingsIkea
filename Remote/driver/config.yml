@@ -1,0 +1,4 @@
+name: 'IKEA On/Off Switch'
+packageKey: 'ikea-on-off-switch'
+permissions:
+  zigbee: {}

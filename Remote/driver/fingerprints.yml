@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "ikea-on-off-switch"
+    deviceLabel: IKEA On/Off Switch
+    manufacturer: IKEA of Sweden
+    model: TRADFRI on/off switch
+    deviceProfileName: ikea-remote
